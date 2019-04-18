@@ -1,0 +1,1 @@
+This clock was a little tricky, getting the hands of the clock assigned with Hours, Minutes and Seconds.
