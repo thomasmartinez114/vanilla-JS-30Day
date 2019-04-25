@@ -1,4 +1,4 @@
-![](/04.PNG)
+![](./04.PNG)
 
 # JavaScript30
 
